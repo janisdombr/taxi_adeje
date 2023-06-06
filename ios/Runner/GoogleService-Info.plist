@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>887433417009-4muhpqaq9tnvhre9eqhmn662t61ripq5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.887433417009-4muhpqaq9tnvhre9eqhmn662t61ripq5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>887433417009-599uethhcai8h101vlib2rnn30h4jhun.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDSMiL83z1d6BXbQKhpPvgVcGwMjvsv_ik</string>
+	<key>GCM_SENDER_ID</key>
+	<string>887433417009</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.trainin.taxiadeje</string>
+	<key>PROJECT_ID</key>
+	<string>taxiadeje-c9831</string>
+	<key>STORAGE_BUCKET</key>
+	<string>taxiadeje-c9831.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:887433417009:ios:d9dd411dfde3cd1e5be010</string>
+</dict>
+</plist>
